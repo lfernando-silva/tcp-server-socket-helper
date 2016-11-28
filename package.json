@@ -1,0 +1,10 @@
+{
+  "name": "tcp-server-socket-helper",
+  "version": "0.0.1",
+  "description": "A module to create a tcp server easily.",
+  "main": "index.js",
+  "author": {
+    "name": "Luiz Fernando",
+    "email": "lfernando-silva@hotmail.com"
+  }
+}
