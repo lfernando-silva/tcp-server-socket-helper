@@ -2,11 +2,11 @@
 
 //Set event handlers 
 let events = {
-    'data': (data) => { },
-    'error': (err) => { },
-    'timeout': () => { },
-    'close': () => { },
-    'end': () => { }
+    'data': socket => (data) => { },
+    'error': socket => (err) => { },
+    'timeout': socket => () => { },
+    'close': socket => () => { },
+    'end': socket => () => { }
 }
 
 //Set options
