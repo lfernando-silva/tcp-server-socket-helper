@@ -7,7 +7,5 @@
     "name": "Luiz Fernando",
     "email": "lfernando-silva@hotmail.com"
   },
-  "dependencies": {
-    "easy-dependency-loader": "^1.1.1"
-  }
+  "dependencies": {}
 }
